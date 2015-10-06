@@ -1,5 +1,5 @@
 {
-  "name": "then-redis",
+  "name": "then-redis-latest",
   "version": "1.3.0",
   "description": "A small, promise-based Redis client",
   "main": "index.js",
@@ -30,5 +30,12 @@
     "promises"
   ],
   "author": "Michael Jackson, Akshay Jha",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjackson/then-redis/issues"
+  },
+  "homepage": "https://github.com/mjackson/then-redis#readme",
+  "directories": {
+    "test": "tests"
+  }
 }
